@@ -1,0 +1,15 @@
+.contenedor-imagenes1 {
+    display: flex;
+  }
+  
+  .contenedor-imagenes img:first-child {
+    margin-right: 10px;
+  }
+
+  .contenedor-imagenes2 {
+    display: flex;
+  }
+  
+  .contenedor-imagenes img:first-child {
+    margin-right: 10px;
+  } 
